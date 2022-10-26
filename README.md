@@ -1,8 +1,18 @@
-# Convex optimization, @Ozon Masters, Spring 2021
+# Convex optimization, @Masters, Fall 2022
 
-1. [Intro to numerical optimization. Gradient descent](./seminar5/slides.ipynb)
-2. Newton method and quasi-Newton methods ([lecture](./lecture6/lecture6.pdf), [seminar](./lecture6/newton_quasi.ipynb))
-3. [Accelerated gradient methods](./seminar8/slides.ipynb)
-4. [Smoothing](./seminar9/smoothing.ipynb) and [proximal gradient method](./seminar9/pgm.ipynb)
-5. Mirror descent ([lecture remarks](./seminar10/lecture.pdf), [experiments](./seminar10/md_practice.ipynb)) and [Frank-Wolfe method](./seminar10/fw.ipynb)
-6. [Interior-point methods](./seminar11/slides.ipynb)
+- [Spring 2021](./Spring2021/)
+- Fall 2022
+
+1. Convex sets
+2. Dual cones
+3. Automatic differentiation and convex functions
+4. Non-smooth convex functions and subdifferential. Conjugate functions
+6. Optimality conditions
+7. Duality
+8. Intro to numerical methods. Gradient descent
+9. Accelerated gradient methods
+10. Stochastic first-order methods
+11. Newton and quasi-Newton methods
+12. Proximal methods
+13. Penalty methods and ADMM
+14. Interior-point methods
