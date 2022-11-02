@@ -10,7 +10,7 @@
 6. Optimality conditions
 7. Duality
 8. [Intro to numerical methods. Gradient descent](./Fall2022/seminar7/grad_descent.ipynb)
-9. Accelerated gradient methods
+9. [Accelerated gradient methods](./Fall2022/seminar8/accelerated_grad_methods.ipynb)
 10. Stochastic first-order methods
 11. Newton and quasi-Newton methods
 12. Proximal methods
