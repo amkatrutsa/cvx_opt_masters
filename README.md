@@ -11,7 +11,7 @@
 7. Duality
 8. [Intro to numerical methods. Gradient descent](./Fall2022/seminar7/grad_descent.ipynb)
 9. [Accelerated gradient methods](./Fall2022/seminar8/accelerated_grad_methods.ipynb)
-10. Stochastic first-order methods
+10. [Stochastic first-order methods](./Fall2022/seminar9/sgd_demo.ipynb)
 11. Newton and quasi-Newton methods
 12. Proximal methods
 13. Penalty methods and ADMM
